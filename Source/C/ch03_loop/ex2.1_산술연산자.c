@@ -8,4 +8,10 @@ int main(void) {
     //         명시적형변환 (double)n1  , 파이썬에서는 double(n1)
     printf("%d %c %d = %d\n", n1, '%', n2, n1%n2);
 
+    //나머지 연산자 : 그룹을 나눌 때 주로 사용 (학번이 짝수/홀수 등)
+    if(n1%2 == 0)
+    printf("n1은 짝수");
+    else
+    printf("n1은 홀수");
+    
 }
