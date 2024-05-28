@@ -6,4 +6,6 @@ int main(){
         tot += i;
     }
     printf("%d부터 %d까지 누적합은 %d입니다.", a,b,tot);
+    a = 10; b = 100;
+    tot = 0;
 }
