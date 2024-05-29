@@ -1,8 +1,10 @@
 #include <stdio.h>
 int main() {
-    //char* name = "jenny";  //ë¬¸ìë¥¼ ë„£ìœ¼ë©´ ì¸ì ‘í•˜ê²Œ ì¡í˜[ j e n n y \0 ]
-    char name[] = "jenny";
+    //¾Æ·¡ ¹®ÀÚ¿­ ¼±¾ğ ¼¼°¡Áö ¹æ¹ı
+    //char* name = "jenny";  //¹®ÀÚ¸¦ ³ÖÀ¸¸é ÀÎÁ¢ÇÏ°Ô ÀâÈû[ j e n n y \0 ]
+    char name[] = "jenny"; // char name[] = {'j','e','n','n','y','\0'}  <- ÀÌ°Å¶û °°À½ (¹®ÀÚ¹è¿­)
     for(int idx=0 ; idx<6 ; idx++){
-        printf("index : %d : ê¸€ì : %c\n",idx,name[idx]);
+        printf("index : %d : ±ÛÀÚ : %c\n",idx,name[idx]);
     }
+    printf("%s\n",name);  //·¹ÆÛ·±½º º¯¼ö, ÁÖ¼Ò 
 }
