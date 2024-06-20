@@ -1,0 +1,158 @@
+	<table width="830" border="0" cellpadding="0" cellspacing="0">
+        <colgroup>
+			<col width="80" />
+			<col width="90" />
+			<col width="160" />
+			<col width="90" />
+			<col width="160" />
+			<col width="90" />
+			<col width="160" />
+        </colgroup>
+		<thead>
+			<tr>
+				<th height="5" style="background:#333;" colspan="7"></th>
+			</tr>
+			<tr>
+				<td colspan="7" align="center">
+					<b style="font-size:20px;">제22회 임베디드SW경진대회 참가신청서</b><br />
+					<span style="font-size:18px;">자동차/모빌리티(현대자동차)</span>
+				</td>
+			</tr>
+			<tr>
+				<th height="5" style="background:#333;" colspan="7"></th>
+			</tr>
+		</thead>
+	</table>
+	<table width="830" border="1" cellpadding="0" cellspacing="0">
+        <colgroup>
+			<col width="80" align="center" />
+			<col width="90" align="center" />
+			<col width="160" align="center" />
+			<col width="90" align="center" />
+			<col width="160" align="center" />
+			<col width="90" align="center" />
+			<col width="160" align="center" />
+        </colgroup>
+		<tbody>
+ 			<tr>
+				<th align="center" style="background:#e0e0e0;">팀명</th>
+				<td align="center" colspan="6">노인공경</td>
+			</tr>
+					<tr>
+				<th align="center" rowspan="3">팀장</th>
+				<th align="center" style="background:#e0e0e0;">이름</th>
+				<td align="center" colspan="5">박현규</td>
+			</tr>
+			<tr>
+				<th align="center" style="background:#e0e0e0;">소속(학교)</th>
+				<td align="center">강원대학교</td>
+				<th align="center" style="background:#e0e0e0;">부서(학과)</th>
+				<td align="center">전자공학과</td>
+				<th align="center" style="background:#e0e0e0;">직위(학년)</th>
+				<td align="center"></td>
+			</tr>
+			<tr>
+				<th align="center" style="background:#e0e0e0;">연락처</th>
+				<td align="center" style="mso-number-format:'\@'">010-7118-3053</td>
+				<th align="center" style="background:#e0e0e0;">이메일</th>
+				<td align="center" colspan="3">gusrb3053@naver.com</td>
+			</tr>
+			
+			<tr>
+				<th height="5" style="border-left:none;border-right:none;" colspan="7"></th>
+			</tr>
+					<tr>
+				<th align="center" rowspan="3">팀원</th>
+				<th align="center" style="background:#e0e0e0;">이름</th>
+				<td align="center" colspan="5">전지환</td>
+			</tr>
+			<tr>
+				<th align="center" style="background:#e0e0e0;">소속(학교)</th>
+				<td align="center">한양대학교 ERICA캠퍼스</td>
+				<th align="center" style="background:#e0e0e0;">부서(학과)</th>
+				<td align="center">전자공학부</td>
+				<th align="center" style="background:#e0e0e0;">직위(학년)</th>
+				<td align="center"></td>
+			</tr>
+			<tr>
+				<th align="center" style="background:#e0e0e0;">연락처</th>
+				<td align="center" style="mso-number-format:'\@'">010-4347-1075</td>
+				<th align="center" style="background:#e0e0e0;">이메일</th>
+				<td align="center" colspan="3">omdrjeon0701@naver.com</td>
+			</tr>
+			
+			<tr>
+				<th height="5" style="border-left:none;border-right:none;" colspan="7"></th>
+			</tr>
+					<tr>
+				<th align="center" rowspan="3">팀원</th>
+				<th align="center" style="background:#e0e0e0;">이름</th>
+				<td align="center" colspan="5">박정우</td>
+			</tr>
+			<tr>
+				<th align="center" style="background:#e0e0e0;">소속(학교)</th>
+				<td align="center">광운대학교</td>
+				<th align="center" style="background:#e0e0e0;">부서(학과)</th>
+				<td align="center">전자공학과</td>
+				<th align="center" style="background:#e0e0e0;">직위(학년)</th>
+				<td align="center"></td>
+			</tr>
+			<tr>
+				<th align="center" style="background:#e0e0e0;">연락처</th>
+				<td align="center" style="mso-number-format:'\@'">010-2711-1789</td>
+				<th align="center" style="background:#e0e0e0;">이메일</th>
+				<td align="center" colspan="3">pjwbuzz@gmail.com</td>
+			</tr>
+			
+			<tr>
+				<th height="5" style="border-left:none;border-right:none;" colspan="7"></th>
+			</tr>
+					<tr>
+				<th align="center" rowspan="3">팀원</th>
+				<th align="center" style="background:#e0e0e0;">이름</th>
+				<td align="center" colspan="5">윤석영</td>
+			</tr>
+			<tr>
+				<th align="center" style="background:#e0e0e0;">소속(학교)</th>
+				<td align="center"></td>
+				<th align="center" style="background:#e0e0e0;">부서(학과)</th>
+				<td align="center"></td>
+				<th align="center" style="background:#e0e0e0;">직위(학년)</th>
+				<td align="center"></td>
+			</tr>
+			<tr>
+				<th align="center" style="background:#e0e0e0;">연락처</th>
+				<td align="center" style="mso-number-format:'\@'">010-7206-3406</td>
+				<th align="center" style="background:#e0e0e0;">이메일</th>
+				<td align="center" colspan="3">znzl3406@naver.com</td>
+			</tr>
+			
+			<tr>
+				<th height="5" style="border-left:none;border-right:none;" colspan="7"></th>
+			</tr>
+				</tbody>
+	</table>
+	<table width="830" border="0" cellpadding="0" cellspacing="0">
+        <colgroup>
+			<col width="80" />
+			<col width="90" />
+			<col width="160" />
+			<col width="90" />
+			<col width="160" />
+			<col width="90" />
+			<col width="160" />
+        </colgroup>
+		<thead>
+			<tr>
+				<td style="text-align:left;" colspan="7">※ 상기 전원은 본 경진대회의 "개인정보 수집 및 이용"에 동의하였으며, 해당 부문에 지원 합니다.</td>
+			</tr>
+			<tr>
+				<td style="text-align:right;" colspan="5">최종 제출 일자:</td>
+				<td style="text-align:right;" colspan="2">2024년 06월 17일</td>
+			</tr>
+			<tr>
+				<td style="text-align:right;" colspan="5">최종 제출자:</td>
+				<td style="text-align:right;" colspan="2">팀장 박현규</td>
+			</tr>
+		</thead>
+	</table>
