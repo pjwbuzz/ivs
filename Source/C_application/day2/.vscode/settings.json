@@ -1,0 +1,5 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.preserveFocus": false, // 파일 실행해도 실행 텍스트 포커스 유지하는 옵션
+    "code-runner.saveFileBeforeRun": true, // 실행버튼 누르면 자동으로 저장하고 실행하는 옵션
+}

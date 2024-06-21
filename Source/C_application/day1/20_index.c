@@ -22,7 +22,7 @@ int main() {
     printf("%d\n", numArr[2][3]);
 
     printf("%d\n", numArr[-1][-1]);
-    printf("%d\n", numArr[0][4]);
+    printf("%d\n", numArr[0][4]);  //밑에 4개중 유일하게 index out of range가 아님
     printf("%d\n", numArr[4][0]);
     printf("%d\n", numArr[5][5]);
 
